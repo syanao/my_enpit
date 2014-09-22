@@ -1,6 +1,6 @@
 #Hello world
 
-This is my first repository.
+This is your first repository.
 
 It is fine.
 
