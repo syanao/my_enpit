@@ -1,6 +1,12 @@
 #Hello world
 
+<<<<<<< HEAD
 This is your first repository.
+=======
+This is our first repository.
+for enPit 2014.
 
-It is fine.
+It is fine today.
+>>>>>>> new_branch
+
 
